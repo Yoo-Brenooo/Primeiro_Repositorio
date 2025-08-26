@@ -17,4 +17,4 @@
 - Preparar para o mercado de trabalho na área de tecnologia
 
 ## Contato
-- GitHub: [github.com/seu-usuario](https://github.com/Yoo-Brenooo)  <!-- Yoo-Brenooo-->
+- GitHub: [github.com/Yoo-Brenooo](https://github.com/Yoo-Brenooo)  <!-- Yoo-Brenooo-->
