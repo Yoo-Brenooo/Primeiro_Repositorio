@@ -29,4 +29,11 @@
 
 ## 📊 Estatísticas
 <p align="center">
-  <img height="160em" s
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Yoo-Brenooo&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoo-Brenooo&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📬 Contato
+- GitHub: [github.com/Yoo-Brenooo](https://github.com/Yoo-Brenooo)  
