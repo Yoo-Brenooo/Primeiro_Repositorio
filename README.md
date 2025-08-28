@@ -36,4 +36,6 @@
 ---
 
 ## 📬 Contato
-- GitHub: [github.com/Yoo-Brenooo](https://github.com/Yoo-Brenooo)  
+- GitHub: [github.com/Yoo-Brenooo](https://github.com/Yoo-Brenooo)
+- Instagram: @breno_.os
+- Numero: +55 11 91145-7839
