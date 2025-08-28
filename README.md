@@ -1,6 +1,8 @@
 # Olá, eu sou o Breno 👋
 
-![Programação GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDd3OTg4ZHZtb2k0dzJkM3g4bTF0czNkYjA1NzF4Y3U3bDZpajYwMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Banner de Programação"/>
+</p>
 
 ## Sobre mim
 - 👦 Tenho 16 anos  
