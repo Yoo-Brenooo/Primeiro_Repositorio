@@ -1,20 +1,31 @@
-# Olá, eu sou o Breno 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/26xBukhE1Sna8iP9e/giphy.gif" width="600"/>
+</p>
 
-![Programação GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+<!-- Título -->
+<h1 align="center">👋 Olá, eu sou o Breno!</h1>
 
-## Sobre mim
-- Tenho 16 anos
-- Curso Desenvolvimento de Sistemas na ETEC
-- Estou aprendendo as linguagens **C** e **Python**
+<!-- Sobre mim -->
+<p align="center">
+  💻 Estudante de programação <br>
+  📚 Atualmente aprendendo <b>Linguagem C</b> e <b>Python</b> <br>
+  🎉 Tenho 16 anos
+</p>
 
-## Linguagens que estudo
-- 🖥️ C: Aprendendo lógica de programação, estruturas e algoritmos básicos
-- 🐍 Python: Focando em automação, scripts e projetos simples
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"/>
+</p>
 
-## Meus objetivos
-- Melhorar minhas habilidades em programação
-- Criar projetos práticos para fixar o conhecimento
-- Preparar para o mercado de trabalho na área de tecnologia
+<!-- Estatísticas -->
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Breno&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breno&layout=compact&theme=tokyonight"/>
+</p>
 
-## Contato
-- GitHub: [github.com/Yoo-Brenooo](https://github.com/Yoo-Brenooo)  <!-- Yoo-Brenooo-->
+<!-- Footer -->
+<p align="center">
+  ✨ "Sempre aprendendo, sempre evoluindo!" ✨
+</p>
