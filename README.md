@@ -1,7 +1,7 @@
 # Olá, eu sou o Breno 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="900" alt="Banner de Programação"/>
+  <img src="https://…/seu_banner.gif" width="900" alt="Banner de Programação"/>
 </p>
 
 ## Sobre mim
